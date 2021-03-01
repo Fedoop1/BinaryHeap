@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryHeap", "BinaryHeap.csproj", "{B0014946-B89F-4DBA-89DA-2391810839DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0014946-B89F-4DBA-89DA-2391810839DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0014946-B89F-4DBA-89DA-2391810839DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0014946-B89F-4DBA-89DA-2391810839DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0014946-B89F-4DBA-89DA-2391810839DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB74E7A1-5007-4260-A69F-D05930EF8438}
+	EndGlobalSection
+EndGlobal
